@@ -1,5 +1,5 @@
 # CPU-Simulation-of-Events
- an Event Simulator that simulates process events that occur in a typical operating system, using C++
+ an Event Simulator that simulates process events that occur in a typical operating system, using C
 # Setup
 Randomly generate all the process events at the beginning of the simulation and store
 them in an Event Queue. Then  dequeue events and handle them by making
