@@ -13,11 +13,11 @@ ProcessDidRequestIO
 IODidFinish
 
 # Output 
-Starting simulation
-time: 003 s: Process 1 arrived.
-time: 004 s: Process 1 started running.
-time: 008 s: Process 2 arrived.
-time: 009 s: Process 1 stopped running.
-time: 009 s: Process 2 started running.
-time: 012 s: Process 2 requested IO
-time: 012 s: Process 1 started running.
+  Starting simulation
+  time: 003 s: Process 1 arrived.
+  time: 004 s: Process 1 started running.
+  time: 008 s: Process 2 arrived.
+  time: 009 s: Process 1 stopped running.
+  time: 009 s: Process 2 started running.
+  time: 012 s: Process 2 requested IO
+  time: 012 s: Process 1 started running.
